@@ -1,0 +1,26 @@
+header{
+    background-color: darkgrey;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 5px 0px 10px white;
+    position:sticky;
+
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    padding:50px;
+
+}
+img{
+    width: 20px;
+    
+}
+
