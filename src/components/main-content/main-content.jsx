@@ -1,8 +1,11 @@
 import './main-content.css'
+import AboutMe from '../AboutMe/AboutMe';
+import Intro from '../intro/intro';
 export default function MainContent(){
-    return(
-        <div>
-            <h1>Hi i'm Daniel Ojingwa</h1>
-        </div>
-    )
+    return (
+      <div className='main-content'>
+        <Intro/>
+        <AboutMe/>
+      </div>
+    );
 }

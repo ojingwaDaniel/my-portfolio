@@ -4,7 +4,7 @@ header{
     display: flex;
     justify-content: space-between;
     box-shadow: 5px 0px 10px white;
-    position:sticky;
+    position: sticky;
 
 }
 ul{
@@ -16,11 +16,13 @@ li{
 a{
     text-decoration: none;
     color: whitesmoke;
-    padding:50px;
+    padding:70px;
+    margin-top: 100px;
 
 }
-img{
-    width: 20px;
-    
+h1{
+    margin-left: 0;
 }
+
+
 
