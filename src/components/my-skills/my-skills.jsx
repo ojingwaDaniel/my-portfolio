@@ -2,6 +2,7 @@ import './my-skills.css'
 export default function MySkills(){
     return (
       <div className="my-skills">
+       
         <div className="box">
           <img src="" alt="" />
           <h3>HTML</h3>
