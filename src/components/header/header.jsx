@@ -2,7 +2,7 @@ import './header.css'
 export default function Header (){
     return (
       <header>
-        <h1>D </h1>
+        <img src=".//logo_trial (1).png" alt="NoImage" />
         <ul>
           <li>
             <a href="#About">About</a>

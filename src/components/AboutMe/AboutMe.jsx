@@ -5,7 +5,7 @@ export default function AboutMe(){
           <h1 className='about-intro'>
             INTRODUCTION
             <br />
-            Overview.
+            ABOUT ME.
           </h1>
 
           <div className="about-me">
