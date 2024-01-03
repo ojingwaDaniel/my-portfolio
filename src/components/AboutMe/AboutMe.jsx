@@ -21,9 +21,12 @@ export default function AboutMe(){
                 peace of mind .
               </span>
               <span>
-                I'm continuously thrilled to partner with individuals and teams
-                who wholeheartedly embrace my fervor for crafting extraordinary
-                experiences. Your visit to my portfolio is deeply appreciated !
+                My focus? Creating beautiful designs that prioritize functionality and user experience
+                  I thrive on tackling complex challenges, ensuring performance, compatibility, and accessibility.
+                  In this ever-evolving field, I'm committed to staying updated with the latest tech and industry trends.
+                  Let's collaborate to turn your ideas into impactful, user-centric realities.
+
+
               </span>
             </p>
             <img
